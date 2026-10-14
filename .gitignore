@@ -1,0 +1,9 @@
+# arquivos vindos do backup da hospedagem / trabalho local
+error_log
+cgi-bin/
+screenshots/
+uploads/
+assets/persona-cliente.jpg
+index.original.html
+*.zip
+.DS_Store
